@@ -1,0 +1,17 @@
+package com.daniel.zookeeper;
+
+public class GorillaTest {
+
+	public static void main(String[] args) {
+		Gorilla g = new Gorilla();
+		g.displayEnergy();
+		
+//		g.throwSomething(3);
+//		
+//		g.eatBanana(2);
+//		
+//		g.climb(1);
+
+	}
+
+}

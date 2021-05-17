@@ -1,0 +1,5 @@
+package com.daniel.bankaccount;
+
+public class BankAccount {
+
+}

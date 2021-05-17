@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\danie\Documents\codingdojo\java_stack\java\java_oop\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3435648363.index

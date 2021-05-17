@@ -1,0 +1,21 @@
+package com.daniel.bankaccount;
+
+public class BankAccountTest {
+
+	public static void main(String[] args) {
+		
+		BankAccount x = new BankAccount();
+		BankAccount y = new BankAccount();
+
+		x.deposit("checking", 100.50).deposit("savings", 33.72);
+		y.deposit("checking", 162.25).deposit("savings", 15.99);
+
+		x.showInfo();
+		y.showInfo();
+
+		System.out.println(x.totalAmount());
+		System.out.println(y.totalAmount());
+
+	}
+
+}

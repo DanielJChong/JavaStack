@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\danie\Documents\codingdojo\java_stack\java\java_oop_adv\.metadata\.plugins\org.eclipse.jdt.core
+3294775327.index
+393243403.index
+2441938283.index
